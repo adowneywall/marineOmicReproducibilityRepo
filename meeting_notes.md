@@ -1,7 +1,7 @@
 # Marine Reproducibility Internship Meeting Notes
 
 
-#### See archived pdfs for previous meeting notes
+#### See [archived pdfs](https://github.com/adowneywall/marineOmicReproducibilityRepo/blob/main/articles/meeting_notes/InternshipMeeting_20210402.pdf) for previous meeting notes.
 
 
 ## 2020-Apr-16
